@@ -1,0 +1,18 @@
+C:\Users\c_class\Desktop\Кэрьюша\Колькулятер\Колькулятер\bin\Debug\Колькулятер.exe.config
+C:\Users\c_class\Desktop\Кэрьюша\Колькулятер\Колькулятер\bin\Debug\Колькулятер.exe
+C:\Users\c_class\Desktop\Кэрьюша\Колькулятер\Колькулятер\bin\Debug\Колькулятер.pdb
+C:\Users\c_class\Desktop\Кэрьюша\Колькулятер\Колькулятер\obj\Debug\Колькулятер.csprojResolveAssemblyReference.cache
+C:\Users\c_class\Desktop\Кэрьюша\Колькулятер\Колькулятер\obj\Debug\Колькулятер.Form1.resources
+C:\Users\c_class\Desktop\Кэрьюша\Колькулятер\Колькулятер\obj\Debug\Колькулятер.Properties.Resources.resources
+C:\Users\c_class\Desktop\Кэрьюша\Колькулятер\Колькулятер\obj\Debug\Колькулятер.csproj.GenerateResource.Cache
+C:\Users\c_class\Desktop\Кэрьюша\Колькулятер\Колькулятер\obj\Debug\Колькулятер.exe
+C:\Users\c_class\Desktop\Кэрьюша\Колькулятер\Колькулятер\obj\Debug\Колькулятер.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\Колькулятер\Колькулятер\bin\Debug\Колькулятер.exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\Колькулятер\Колькулятер\obj\Debug\Колькулятер.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\Колькулятер\Колькулятер\obj\Debug\Колькулятер.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\Колькулятер\Колькулятер\bin\Debug\Колькулятер.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\Колькулятер\Колькулятер\bin\Debug\Колькулятер.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\Колькулятер\Колькулятер\obj\Debug\Колькулятер.csprojResolveAssemblyReference.cache
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\Колькулятер\Колькулятер\obj\Debug\Колькулятер.Form1.resources
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\Колькулятер\Колькулятер\obj\Debug\Колькулятер.Properties.Resources.resources
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\Колькулятер\Колькулятер\obj\Debug\Колькулятер.csproj.GenerateResource.Cache
